@@ -10,7 +10,7 @@ My name is Martin and I am doing some studies in DevOps, I am doing this to help
 
 I am very interested in Computer Science and its possibilities and have always been fascinated since I was young. The simple logic and 'computers do what you tell them' process has always fascinated me and I have enjoyed helping others achieve their goals with computing.  
 
-I currently work in IT support, however this is more directed into the communication part of the field rather than the computing, this is a an area I would like to get back into, hence my interest in the DevOps course right now.  
+I currently work in IT support, however this is more directed into the communication part of the field rather than the computing, this is a an area I would like to get back into, hence my interest in the DevOps CS-EJ4104 course right now.  
 
 
 
