@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Landing Page on My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Landing Page on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Nov 2020 17:23:10 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CS EJ4104</title>
+      <link>http://example.org/post/cs-ej4104/</link>
+      <pubDate>Wed, 18 Nov 2020 19:14:56 +0200</pubDate>
+      
+      <guid>http://example.org/post/cs-ej4104/</guid>
+      <description>The DevOps Course - CS-EJ4104 at Aalto University Reasons why I decided to take the DevOps Course - CS-EJ4104: and expectations:
+ I am very interested in Computing Studies in general and wanted to get overall view of some of the newer fundamentals in computing science since I originally studied the subject back in 2004-2008. I have some background knowledge in coding, however this is totally different to what I was used to and once I gain further understanding I will be able to apply these learnings to future projects and gains in my studies and professional life.</description>
+    </item>
+    
+    <item>
+      <title>Learning Devops</title>
+      <link>http://example.org/post/learning-devops/</link>
+      <pubDate>Wed, 18 Nov 2020 18:23:50 +0200</pubDate>
+      
+      <guid>http://example.org/post/learning-devops/</guid>
+      <description>#Things I&amp;rsquo;ve learnt and things I&amp;rsquo;m still learning/practicing:
+ Git / Github - I&amp;rsquo;ve learnt what Git is and does: How it manages version controls in a streamlined way which allows collaborators to implement and deploy new changes quickly, whilst maintaining the ability to revert back to a previous working form. The resilience in this kind of technology cannot be overstated. It is the biggest, best way to manage changes I have seen in nearly 2 decades.</description>
+    </item>
+    
+  </channel>
+</rss>
